@@ -3,3 +3,5 @@ SFDC:
 ADM201 - completion by May/16
 Sales Consultant - completion by Aug/16
 Service Consultant - completion by Jul/16
+
+Trying to do commit status checks
